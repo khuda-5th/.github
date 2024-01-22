@@ -1,8 +1,10 @@
 ![github_banner](https://github.com/khuda-5th/.github/assets/111333350/d4aff1f1-e9a8-4fa0-9043-1257a52035d6)
 
+<div align=center>
+  
 # Kyung Hee University Data Analysis
 
-<div align=center>
+
 
 **KHUDA**는 **K**yung **H**ee **U**niversity **D**ata **A**nalysis의 약자로, 경희대학교 데이터 분석/AI 중앙동아리입니다.
 
