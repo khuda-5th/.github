@@ -1,4 +1,4 @@
-![github_banner](https://github.com/khuda-5th/.github/assets/111333350/cc8b911a-ccb1-43a5-8622-5ab43edda612)
+![github_banner](https://github.com/khuda-5th/.github/assets/111333350/6fe5e262-93e4-457e-a25d-ad9d749615b8)
 
 <div align=center>
   
