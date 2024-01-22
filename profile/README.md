@@ -15,8 +15,6 @@ KHUDA는 팀원과 함께 **성장**하며, 본인의 한계를 **뛰어넘는**
 (노션 주소: 5기로 변경 필요)
 </div>
 
-(멤버 추가?)
-
 ---
 <!-- 3기 -->
 <details>
@@ -34,7 +32,7 @@ KHUDA는 팀원과 함께 **성장**하며, 본인의 한계를 **뛰어넘는**
 <!-- 4기 -->
 
 <details>
-  <summary><b>[ 🔎 KHUDA-4th (23.07.28 ~ 23.12.06) ]</b></summary>
+  <summary><b>[ 🔎 KHUDA-4th (23.07.28 ~ 23.12.06) ]</b></summary>  
 
   📂 4기 Github &nbsp; 
   [<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>](https://github.com/khuda-4th) 
