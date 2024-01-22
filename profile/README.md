@@ -1,4 +1,4 @@
-![github_banner](https://github.com/khuda-5th/khuda-5th/assets/111333350/9dc44ac0-82a2-4d57-99df-f2b0461eca71)
+![github_banner](https://github.com/khuda-5th/.github/assets/111333350/d4aff1f1-e9a8-4fa0-9043-1257a52035d6)
 
 # Kyung Hee University Data Analysis
 
