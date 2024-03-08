@@ -21,23 +21,23 @@ KHUDA는 팀원과 함께 **성장**하며, 본인의 한계를 **뛰어넘는**
 
 #### TOY PROJECT (24.02.28~24.03.06)
 
-> **🏠 1조 [서울특별시 오피스텔 실거래가 분석을 통한 경희대학교 주변 집값 예측](https://github.com/khuda-5th/ML_team1_Prediction_House_Price)**
->> <h6> 정유진(PM), 정난주, 윤서현, 신경수, 김나균, 이수민, 김민지 </h6>
+> **🏠 1조 | 정유진(PM), 정난주, 윤서현, 신경수, 김나균, 이수민, 김민지**  
+> **_[서울특별시 오피스텔 실거래가 분석을 통한 경희대학교 주변 집값 예측](https://github.com/khuda-5th/ML_team1_Prediction_House_Price)_**
 
-> **🌞 2조 [선호도 기반 제주도 여행 경로 추천](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route)**
->> <h6> 허윤지(PM), 김시우, 김민권, 이태웅, 김정환, 이두원, 장서연 </h6>
+> **🌞 2조 | 허윤지(PM), 김시우, 김민권, 이태웅, 김정환, 이두원, 장서연**  
+> **_[선호도 기반 제주도 여행 경로 추천](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route)_**
 
-> **💤 3조 [다변량 데이터 분석을 통한 기대수명 예측 시스템](https://github.com/khuda-5th/ML_team3_Prediction-Life-Expectancy)**
->> <h6> 이강훈(PM), Dania, 김채영, 이다은, 조준영, 최소영 </h6>
+> **💤 3조 | 이강훈(PM), Dania, 김채영, 이다은, 조준영, 최소영**  
+> **_[다변량 데이터 분석을 통한 기대수명 예측 시스템](https://github.com/khuda-5th/ML_team3_Prediction-Life-Expectancy)_**
 
-> **🛴 4조 [전동 킥보드 견인 위치의 특성 및 환경적 원인 탐색](https://github.com/khuda-5th/ML_team4_Tow-of-PM-Analysis)**
->> <h6> 김민아(PM), 김민서, 박진우, 이소연, 이승준, 지인태, 황종훈 </h6>
+> **🛴 4조 | 김민아(PM), 김민서, 박진우, 이소연, 이승준, 지인태, 황종훈**  
+> **_[전동 킥보드 견인 위치의 특성 및 환경적 원인 탐색](https://github.com/khuda-5th/ML_team4_Tow-of-PM-Analysis)_**
 
-> **🏛 5조 [경희대학교 국제캠퍼스 맛집 추천 개발](https://github.com/khuda-5th/ML_team5_Restaurant-Recommendation)**
->> <h6> 배아람(PM), 박성수, 박재환, 이하영, 윤소은, 장유리, 정소연 </h6>
+> **🏛 5조 | 배아람(PM), 박성수, 박재환, 이하영, 윤소은, 장유리, 정소연**  
+> **_[경희대학교 국제캠퍼스 맛집 추천 개발](https://github.com/khuda-5th/ML_team5_Restaurant-Recommendation)_**
 
-> **🤗 비대면조 국내 주식데이터를 활용한 주가 예측**
->> <h6> 박성민(PM), 강명구, 권서연, 방채빈, 이재호, 이지석 </h6>
+> **📈 비대면조 | 박성민(PM), 강명구, 권서연, 방채빈, 이재호, 이지석**  
+> **_국내 주식데이터를 활용한 주가 예측_**
 
 ---
 <!-- 3기 -->
