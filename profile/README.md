@@ -24,7 +24,7 @@ KHUDA는 팀원과 함께 **성장**하며, 본인의 한계를 **뛰어넘는**
 > **1조 [서울특별시 오피스텔 실거래가 분석을 통한 경희대학교 주변 집값 예측](https://github.com/khuda-5th/ML_team1_Prediction_House_Price)**
 >> <h6> 정유진(PM), 정난주, 윤서현, 신경수, 김나균, 이수민, 김민지 </h6>
 
-> **🌞 2조 선호도 기반 제주도 여행 경로 추천**
+> **🌞 2조 [선호도 기반 제주도 여행 경로 추천](https://github.com/khuda-5th/ML_team2_Recommend-Travel-Route)**
 >> <h6> 허윤지(PM), 김시우, 김민권, 이태웅, 김정환, 이두원, 장서연 </h6>
 
 > **💤 3조 [다변량 데이터 분석을 통한 기대수명 예측 시스템](https://github.com/khuda-5th/ML_team3_Prediction-Life-Expectancy)**
