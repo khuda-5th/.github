@@ -33,7 +33,7 @@ KHUDA는 팀원과 함께 **성장**하며, 본인의 한계를 **뛰어넘는**
 > **4조 [전동 킥보드 견인 위치의 특성 및 환경적 원인 탐색](https://github.com/khuda-5th/ML_team4_Tow-of-PM-Analysis)**
 >> <h6> 김민아(PM), 김민서, 박진우, 이소연, 이승준, 지인태, 황종훈 </h6>
 
-> **5조 [경희대학교 국제캠퍼스 맛집 추천 개발](https://github.com/khuda-5th/ML_team5_Restaurant-Recommendation)**
+> **🏛 5조 [경희대학교 국제캠퍼스 맛집 추천 개발](https://github.com/khuda-5th/ML_team5_Restaurant-Recommendation)**
 >> <h6> 배아람(PM), 박성수, 박재환, 이하영, 윤소은, 장유리, 정소연 </h6>
 
 > **🤗 비대면조 국내 주식데이터를 활용한 주가 예측**
