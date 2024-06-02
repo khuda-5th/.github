@@ -43,9 +43,8 @@ KHUDA는 팀원과 함께 **성장**하며, 본인의 한계를 **뛰어넘는**
   
 </div>
 
-
-
-
+<br>
+<br>
 <!-- toy project -->
 <details>
   <summary><b>[ KHUDA 5th TOY PROJECT (24.02.28~24.03.06) ]</b></summary>
