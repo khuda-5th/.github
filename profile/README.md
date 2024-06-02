@@ -33,7 +33,7 @@ KHUDA는 팀원과 함께 **성장**하며, 본인의 한계를 **뛰어넘는**
 |***[AI 얼굴인식 출결관리 시스템](https://github.com/khuda-5th/CV_Face-Recognition-Attendance-Management-System)***|***지역 특화 사용자 특성 기반 여행지 추천 시스템***|
 |***방문 쇼핑몰 자동 기록 및 분류 시스템***|***[SPARK 기반 IT/소프트웨어 강의 통합 검색 사이트](https://github.com/khuda-5th/DE_Integrated-Search-Website-for-Spark-based-IT-Software-Courses)***|
 |***[T를 위한 연애 솔루션 챗봇, SOL-T](https://github.com/khuda-5th/NLP_SOL._.T-ChatBot)***|***당뇨병 및 고혈압 예측 모델 개발 및 건강 점수 도출***|
-|***[원티드 채용 공고 및 트렌드 분석](https://github.com/khuda-5th/DB_Job-Positing-Analysis)***|***AI AGENT IN GAME WITH UNITY REINFORCEMENT LEARNING***|
+|***[원티드 채용 공고 및 트렌드 분석](https://github.com/khuda-5th/DB_Job-Positing-Analysis)***|***[AI AGENT IN GAME WITH UNITY REINFORCEMENT LEARNING](https://github.com/khuda-5th/RL_AI-Agent-in-Game-with-Unity-Reinforcement-Learning)***|
 
 
 </details>
